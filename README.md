@@ -1,3 +1,4 @@
+https://fila.aleu.xyz/discord/user/1049930743859650641?theme=%7Blight,dark%7D
 ## 소개
 - 👋 안녕하세요! 보란이 입니다!
 - 시이, 리이봇 개발자(1인개발)
